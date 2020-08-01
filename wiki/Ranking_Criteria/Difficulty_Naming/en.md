@@ -186,6 +186,7 @@ The following difficulty names are common alternatives and additions to the defa
 
 - ![](/wiki/shared/diff/easy-s.png) Beginner: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
 - ![](/wiki/shared/diff/normal-s.png) Advanced: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
-- ![](/wiki/shared/diff/hard-s.png) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
+- ![](/wiki/shared/diff/hard-s.png) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane which falls under the Hard difficulty in star rate.
+- ![](/wiki/shared/diff/insane-s.png) Light Insane: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane which falls under the Insane difficulty in star rate.
 - ![](/wiki/shared/diff/expert-s.png) Extra: it can used as a substitute for Expert.
 - ![](/wiki/shared/diff/expertplus-s.png) Extreme: it can be used to represent a more difficult Expert.
